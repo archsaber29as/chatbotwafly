@@ -1,5 +1,5 @@
 app = "chatbotwa"
-primary_region = "sin"   # Singapore — closest to Jakarta
+primary_region = sin   # Singapore — closest to Jakarta
 
 [build]
   dockerfile = "docker.dockerfile"
